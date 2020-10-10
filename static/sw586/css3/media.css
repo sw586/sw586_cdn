@@ -1,0 +1,133 @@
+@charset "utf-8";
+@media screen and (max-width: 1920px) {
+.qrcode img{ width:45%;}
+
+}
+
+@media screen and (max-width: 1600px) {
+.qrcode img{ width:55%;}
+.xnavls li a{padding:0 28px; }
+
+.banner .zi b{font-size: 70px}
+.dtit{padding:2% 0}
+.dtit span{font-size: 32px}
+.newsimp .pic{height: 275px}
+.syfw ul li{margin: 0; width: 20%; min-height: 320px;}
+.syfw ul li i{margin: 20px auto;}
+.syfanganz b{font-size: 35px}
+.cust li{height: 125px}
+.lian span{font-size: 23px}
+.mess span{font-size: 25px}
+
+.nbanzi .h1{font-size: 36px}
+.nbanzi b i,.nbanzi b .h1{font-size: 46px}
+.nbanzi .yhzi1{font-size: 46px}
+.nbanzi .yhzi2{font-size: 36px}
+.abwho strong{font-size: 25px}
+.youhua1 li i>img{width: 120px;}
+.youhua2 li .zi b{font-size: 90px; top: 0}
+.youhua2 li .zi span{font-size: 26px;}
+.youhua2 li .zi{width: 80%;}
+.youhua2 li{padding: 1.5%;}
+.youhua2 li i{width: 80px;}
+.youhua2 li i:before, .youhua2 li i:after{background-size: 80px!important}
+.jianshe .zi h3{font-size: 150px}
+.jianshe .zi b{font-size: 45px;line-height: 1.3}
+.jianshe .zi span{font-size: 28px}
+.jianshe .zi{padding: 3%}
+.contact-t{font-size: 26px}
+.contact2 li{padding: 2% 0}
+.contact2 li i>img{width: 85px;}
+.newstop .newstopy{padding: 2%;}
+.abxiaz{padding: 2% 0 4% 0}
+
+.contact_list{ margin:40px 0;}
+.contact_list li{ padding:35px;}
+.contact_list li>span{ font-size:20px;}
+.contact_list li p{ font-size:16px; line-height:28px;}
+
+.solutionlist li .snum{ font-size:72px; background-size:auto 80%; }
+.solutionlist li .scon .stxt{ font-size: 16px; }
+
+.syfanganz .more{ margin-top:15%; margin-bottom:10%; }
+}
+
+@media screen and (max-width: 1440px) {
+.qrcode img{ width:65%;}
+.xnavls li a{padding:0 15px; }
+.nav{width: 280px;transform: translateX(280px);-webkit-transform: translateX(280px);
+-o-transform: translateX(280px); -ms-transform: translateX(280px); -moz-transform: translateX(280px);}
+.leftbarbg.active{
+transform:translateX(-280px); -webkit-transform: translateX(-280px);
+-moz-transform: translateX(-280px);-o-transform: translateX(-280px);-ms-transform: translateX(-280px);}
+.nav li{font-size: 18px;}
+.banner .zi b{font-size: 60px;letter-spacing: 0}
+.banner .zi{top: 22%}
+.banner .shu{bottom: 10%}
+.syfangany li p{font-size: 16px}
+.newsimp .pic{height: 230px}
+.syfangany li{padding: 3% 0}
+.cust li{height: 115px}
+.lian{padding: 2% 2%}
+.lian span{font-size: 23px}
+.lian b{font-size: 27px}
+.mess span{font-size: 20px}
+.mess .k{height: 42px; line-height: 42px; margin-bottom: 8px}
+.mess button{height: 42px; line-height: 42px;}
+.mess .dk{height: 80px; line-height: 1.8}
+.anlicon-t{font-size: 28px}
+.anli li p b{font-size: 18px}
+.youhua1 li i>img{width: 105px}
+.youhua2 li i:before, .youhua2 li i:after{background-size: 70px!important;}
+.youhua1 li span{font-size: 20px}
+.youhua2 li .zi b{font-size: 70px;}
+.youhua3 li .mask b{margin-top: 12%}
+.youhua2 li .zi span{font-size: 20px}
+.youhua3 li .mask b{font-size: 18px}
+.youhua2 li .zi p{font-size: 14px}
+.jianshe .zi b{font-size: 35px; margin-top: -15px}
+.jianshe .zi h3{font-size: 130px}
+.jianshe .zi span{font-size: 24px}
+.jiejue li .zi{padding:10px 15px}
+.jiejue li .zi span{font-size: 20px}
+.jiejue li .zi p{font-size: 14px;}
+.abwho{padding: 3%}
+.abwhat li span{font-size: 16px}
+.dtit span{font-size: 26px}
+.abwho p{margin-bottom: 0}
+.abwho b{font-size: 18px}
+.abxiaz b{font-size: 18px}
+.abwho .dtit{padding: 0}
+.strength .item .num .num-item{height: 65px; font-size: 65px}
+.strength .item .num .jia{font-size: 65px}
+.abxiaz .dtit{padding: 0}
+.abxiaz p{margin-bottom: 10px}
+.newstopy span{font-size: 24px; height: 38px}
+.contact2 li i>img{width: 70px}
+.solutionlist li .snum{ font-size:68px; background-size:auto 75%;  }
+.solutionlist li .scon .stxt{ font-size: 14px;}
+
+.xnewslist li .xnmain .xntle{ font-size: 14px; }
+.xnewslist li .xnmain .xntxt{ font-size: 14px; }
+
+
+
+.listtag li{  padding:15px 30px;  }
+
+.listtag li h3{ font-size: 16px; }
+.listtag li p{  font-size: 14px; }
+.listtag li .lics{ font-size: 14px; }
+
+.tagleft li a{ font-size: 14px; }
+
+.tagtle{ background:#4584e0; padding:10px 12px;  }
+.tagtle span{ font-size:16px;  }
+
+.picturelist{ overflow:hidden; padding:10px 15px; }
+.picturelist li .pictitle{ font-size: 12px; }
+
+.wzlist li{ font-size:13px; padding-left:10px;}
+}
+@media screen and (max-width: 1366px) {
+
+}
